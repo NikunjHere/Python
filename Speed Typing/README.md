@@ -14,3 +14,8 @@ This project is a **command-line application** built using the **curses** module
 2. Run the Python script using the following command: **"python main.py"**
 3. Explore the application using keyboard inputs.
 4. Exit the application gracefully.
+
+## Project Structure
+
+- `main.py`: Main Python script containing the curses-based application logic.
+- `text.txt`: Text file that contains all the sentences displayed in the app while using it.
